@@ -215,7 +215,7 @@ Note: You can get through this course with just having an advanced grasp of soli
 <br/>
 <p align="center">
 <a href="https://updraft.cyfrin.io/" target="_blank">
-<img src="./images/math-master.png" width="300" alt="Smart Contract Audit & Security Review, Math Master">
+<img src="./images/gas-bad.png" width="300" alt="Smart Contract Audit & Security, Gas Bad">
 </a>
 </p>
 <br/>
