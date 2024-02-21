@@ -133,6 +133,7 @@ Note: You can get through this course with just having an advanced grasp of soli
 
 🧑🏾‍💻 [Horse Store Code](https://github.com/Cyfrin/1-horse-store-s23): https://github.com/Cyfrin/1-horse-store-s23
 
+- [Huff Documentation](https://docs.huff.sh/)
 - [EVM Opcodes](https://evm.codes/)
 - Introduction to Yul
     - Security considerations (compiler doesn’t keep you safe anymore!)
