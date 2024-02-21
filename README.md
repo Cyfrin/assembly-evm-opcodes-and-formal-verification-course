@@ -131,7 +131,7 @@ Note: You can get through this course with just having an advanced grasp of soli
 </p>
 <br/>
 
-🧑🏾‍💻: [Horse Store Code](https://github.com/Cyfrin/10-horse-store-s23)
+🧑🏾‍💻 [Horse Store Code](https://github.com/Cyfrin/1-horse-store-s23): https://github.com/Cyfrin/1-horse-store-s23
 
 - [EVM Opcodes](https://evm.codes/)
 - Introduction to Yul
