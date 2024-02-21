@@ -23,12 +23,12 @@ This was considered part 2 of the [security and auditing course](https://updraft
   - [Resources For This Course](#resources-for-this-course)
     - [Challenge Contracts Registry](#challenge-contracts-registry)
   - [Prerequisites](#prerequisites)
-  - [Outcome](#outcome)
+  - [Outcomes](#outcomes)
 - [Curriculum](#curriculum)
 - [Section 0: Welcome](#section-0-welcome)
   - [Why EVM, Opcodes, and Formal Verification?](#why-evm-opcodes-and-formal-verification)
+  - [Best Practices](#best-practices)
     - [Section 0 NFT](#section-0-nft)
-  - [Best Practices for this course](#best-practices-for-this-course)
 - [Section 1: EVM Assembly, Opcodes, Yul, \& Huff | Horse Store](#section-1-evm-assembly-opcodes-yul--huff--horse-store)
     - [Section 1 NFT](#section-1-nft)
 - [Section 2: Introduction to Formal Verification \& Symbolic Execution | Math Master](#section-2-introduction-to-formal-verification--symbolic-execution--math-master)
@@ -85,12 +85,12 @@ An intermediate understanding of solidity. You don't need to be a pro, but you s
 
 Note: You can get through this course with just having an advanced grasp of solidity & foundry, however, having at least a shallow understanding of security and low level EVM will make this course much easier to grasp. And you doing the security coruse will make you a better EVM developer!
 
-## Outcome
+## Outcomes
 * Be able to decompile a smart contract right from the raw bytecode
-* Be able to understand exactly how EVM opcodes work, so you can write more gas-efficient code
+* Be able to understand exactly how EVM opcodes work so you can write more gas-efficient code
 * Learn the Huff smart contract programming language
-* Be able to write formal verfication in: Halmos & Certora
-* Be able to understand the difference between Fuzzing & Formal Verfication
+* Be able to write formal verification in Halmos & Certora
+* Be able to understand the difference between Fuzzing & Formal Verification
 * Have an intermediate understanding of how to write Formal Verification tests for solidity 
 
 # Curriculum
@@ -98,6 +98,18 @@ Note: You can get through this course with just having an advanced grasp of soli
 # Section 0: Welcome
 
 ## Why EVM, Opcodes, and Formal Verification?
+
+## Best Practices 
+  - TODO: Add link to "how to ask a question" and "how to answer a question" and "how to work with AI"
+  - Register for [Cyfrin Updraft](https://updraft.cyfrin.io/)
+    - USE THIS SITE!!! It's specfically made to make learning easier
+  - **Follow the repository:** While going through the course be 100% certain to follow along with the github repository. If you run into in an issue check the chronological-updates in the repo.
+  - **Be Active in the community:** Ask questions and engage with other developers going through the course in the discussions tab, be sure to go and say hello or gm! This space is different from the other industries, you don't have to be secretive; communicate, network and learn with others :)
+  - **Learn at your own pace:** It doesn't matter if it takes you a day, a week, a month or even a year. Progress >>> Perfection
+  - **Take Breaks:** You will exhaust your mind and recall less if you go all out and watch the entire course in one sitting. 
+    **Suggested Strategy** every 25 minutes take a 5 min break, and every 2 hours take a longer 30 min break
+  - **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it your end and maybe even have the code sample next to you.
+  - **Use ChatGPT and/or the course chat**
 
 🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯
 
@@ -109,17 +121,6 @@ Note: You can get through this course with just having an advanced grasp of soli
 🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-## Best Practices for this course
-  - Register for [Cyfrin Updraft](https://updraft.cyfrin.io/)
-    - USE THIS SITE!!! It's specfically made to make learning easier
-  - **Follow the repository:** While going through the course be 100% certain to follow along with the github repository. If you run into in an issue check the chronological-updates in the repo.
-  - **Be Active in the community:** Ask questions and engage with other developers going through the course in the discussions tab, be sure to go and say hello or gm! This space is different from the other industries, you don't have to be secretive; communicate, network and learn with others :)
-  - **Learn at your own pace:** It doesn't matter if it takes you a day, a week, a month or even a year. Progress >>> Perfection
-  - **Take Breaks:** You will exhaust your mind and recall less if you go all out and watch the entire course in one sitting. 
-    **Suggested Strategy** every 25 minutes take a 5 min break, and every 2 hours take a longer 30 min break
-  - **Refer to Documentation:** Things are constantly being updated, so whenever Patrick opens up some documentation, open it your end and maybe even have the code sample next to you.
-  - **Use ChatGPT and/or the course chat**
-
 # Section 1: EVM Assembly, Opcodes, Yul, & Huff | Horse Store
 
 <br/>
@@ -129,6 +130,8 @@ Note: You can get through this course with just having an advanced grasp of soli
 </a>
 </p>
 <br/>
+
+🧑🏾‍💻: [Horse Store Code](https://github.com/Cyfrin/10-horse-store-s23)
 
 - [EVM Opcodes](https://evm.codes/)
 - Introduction to Yul
