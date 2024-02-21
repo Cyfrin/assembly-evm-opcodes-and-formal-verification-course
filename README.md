@@ -135,6 +135,7 @@ Note: You can get through this course with just having an advanced grasp of soli
 
 - [Huff Documentation](https://docs.huff.sh/)
 - [EVM Opcodes](https://evm.codes/)
+- [View of Places the EVM can hold info](https://x.com/pcaversaccio/status/1651926715931738112?s=20)
 - Introduction to Yul
     - Security considerations (compiler doesn’t keep you safe anymore!)
 - Introduction to Huff
