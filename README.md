@@ -136,6 +136,8 @@ Note: You can get through this course with just having an advanced grasp of soli
 - [Huff Documentation](https://docs.huff.sh/)
 - [EVM Opcodes](https://evm.codes/)
 - [View of Places the EVM can hold info](https://x.com/pcaversaccio/status/1651926715931738112?s=20)
+- [HEVM](https://github.com/ethereum/hevm)
+- [foundry-huff](https://github.com/huff-language/foundry-huff)
 - Introduction to Yul
     - Security considerations (compiler doesn’t keep you safe anymore!)
 - Introduction to Huff
@@ -169,6 +171,8 @@ Note: You can get through this course with just having an advanced grasp of soli
 </a>
 </p>
 <br/>
+
+🧑🏾‍💻 Code: [https://github.com/Cyfrin/2-math-master-audit](https://github.com/Cyfrin/2-math-master-audit)
 
 - [Introduction to FV & SE](https://www.youtube.com/watch?v=izpoxfTSaFs) 
 - [How to quit concrete testing with FV](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
