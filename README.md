@@ -174,7 +174,11 @@ Note: You can get through this course with just having an advanced grasp of soli
 
 🧑🏾‍💻 Code: [https://github.com/Cyfrin/2-math-master-audit](https://github.com/Cyfrin/2-math-master-audit)
 
+- [What is WAD?](https://ethereum.stackexchange.com/questions/27101/what-does-wadstand-for)
 - [Introduction to FV & SE](https://www.youtube.com/watch?v=izpoxfTSaFs) 
+  - [Article](https://medium.com/@patrickalphac/formal-verification-symbolic-execution-38e0ac9072eb)
+  - [Troy Interview](https://www.youtube.com/watch?v=H52U4ibkf5Q)
+  - [Josselin Interview](https://www.youtube.com/watch?v=3pWYvtx_sjA)
 - [How to quit concrete testing with FV](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
 - Z3 Solution with AI 
 - Solidity SMT Checker 
