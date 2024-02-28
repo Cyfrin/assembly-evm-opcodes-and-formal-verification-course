@@ -190,6 +190,7 @@ Note: You can get through this course with just having an advanced grasp of soli
 ### Certora Signup
 *click me* :)
 - [Certora Signup](https://www.certora.com/signup?plan=prover&utm=updraft)
+- [What is Formal Verification (from Mooly)](https://www.youtube.com/watch?v=VGSsPIsbb6U)
 
 ## Symbolic Execution / Formal Verification Tools in Web3
 - [Halmos](https://github.com/a16z/halmos)
