@@ -188,6 +188,7 @@ Note: You can get through this course with just having an advanced grasp of soli
 - [Case Study: PRBMath](https://twitter.com/zachobront/status/1679540903030013952)
 
 ### Certora Signup
+*click me* :)
 - [Certora Signup](https://www.certora.com/signup?plan=prover&utm=updraft)
 
 ## Symbolic Execution / Formal Verification Tools in Web3
