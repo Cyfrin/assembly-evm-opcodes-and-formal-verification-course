@@ -32,6 +32,7 @@ This was considered part 2 of the [security and auditing course](https://updraft
 - [Section 1: EVM Assembly, Opcodes, Yul, \& Huff | Horse Store](#section-1-evm-assembly-opcodes-yul--huff--horse-store)
     - [Section 1 NFT](#section-1-nft)
 - [Section 2: Introduction to Formal Verification \& Symbolic Execution | Math Master](#section-2-introduction-to-formal-verification--symbolic-execution--math-master)
+    - [Certora Signup](#certora-signup)
   - [Symbolic Execution / Formal Verification Tools in Web3](#symbolic-execution--formal-verification-tools-in-web3)
   - [Certora](#certora)
   - [Issues](#issues)
@@ -180,9 +181,15 @@ Note: You can get through this course with just having an advanced grasp of soli
   - [Troy Interview](https://www.youtube.com/watch?v=H52U4ibkf5Q)
   - [Josselin Interview](https://www.youtube.com/watch?v=3pWYvtx_sjA)
 - [How to quit concrete testing with FV](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
+- [sc-exploits-minimized](https://github.com/Cyfrin/sc-exploits-minimized/tree/main)
 - Z3 Solution with AI 
 - Solidity SMT Checker 
+- [Halmos](https://github.com/a16z/halmos)
 - [Case Study: PRBMath](https://twitter.com/zachobront/status/1679540903030013952)
+
+### Certora Signup
+- [Certora Signup](https://www.certora.com/signup?plan=prover&utm=updraft)
+
 ## Symbolic Execution / Formal Verification Tools in Web3
 - [Halmos](https://github.com/a16z/halmos)
 - [Certora](https://www.certora.com/)
