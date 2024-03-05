@@ -191,6 +191,7 @@ Note: You can get through this course with just having an advanced grasp of soli
 *click me* :)
 - [Certora Signup](https://www.certora.com/signup?plan=prover&utm=updraft)
 - [What is Formal Verification (from Mooly)](https://www.youtube.com/watch?v=VGSsPIsbb6U)
+- [Install Certora](https://docs.certora.com/en/latest/docs/user-guide/getting-started/install.html)
 
 ## Symbolic Execution / Formal Verification Tools in Web3
 - [Halmos](https://github.com/a16z/halmos)
@@ -241,6 +242,8 @@ Note: You can get through this course with just having an advanced grasp of soli
 </a>
 </p>
 <br/>
+
+🧑🏾‍💻 Code: [https://github.com/Cyfrin/3-gas-bad-nft-marketplace-audit](https://github.com/Cyfrin/3-gas-bad-nft-marketplace-audit)
 
 ## Certora 
 - Parametric rules
