@@ -134,6 +134,26 @@ Note: You can get through this course with just having an advanced grasp of soli
 
 🧑🏾‍💻 [Horse Store Code](https://github.com/Cyfrin/1-horse-store-s23): https://github.com/Cyfrin/1-horse-store-s23
 
+
+<table border="1" style="border-collapse: collapse;">
+  <thead>
+        <tr>
+            <th>Horse StoreV1 (Solidity)</th>
+            <th>Horse StoreV2 (Solidity)</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+      <td>
+      <a href="https://remix.ethereum.org/#url=https://github.com/Cyfrin/1-horse-store-s23/blob/main/src/horseStoreV1/HorseStore.sol&lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.20+commit.a1b79de6.js" target="_blank" style="display: inline-block; padding: 10px 15px; font-size: 16px; cursor: pointer; text-align: center; text-decoration: none; outline: none; color: #fff; background-color: #4CAF50; border: none; border-radius: 15px; box-shadow: 0 5px #999;" target="_blank">View in Remix</a>
+      </td>
+      <td>
+      <a href="https://remix.ethereum.org/#url=https://github.com/Cyfrin/1-horse-store-s23/blob/main/src/horseStoreV2/HorseStore.sol&lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.20+commit.a1b79de6.js" target="_blank" style="display: inline-block; padding: 10px 15px; font-size: 16px; cursor: pointer; text-align: center; text-decoration: none; outline: none; color: #fff; background-color: #4CAF50; border: none; border-radius: 15px; box-shadow: 0 5px #999;" target="_blank">View in Remix</a>
+      </td>
+      </tr>
+    </tbody>
+</table>
+
 - [Huff Documentation](https://docs.huff.sh/)
 - [EVM Opcodes](https://evm.codes/)
 - [View of Places the EVM can hold info](https://x.com/pcaversaccio/status/1651926715931738112?s=20)
@@ -210,6 +230,8 @@ Note: You can get through this course with just having an advanced grasp of soli
 - Methods Block 
 - Config Files / Scene
 - Linking
+- Invariants
+- Prover Args
 
 ## Issues
 - Path Explosion
@@ -247,12 +269,10 @@ Note: You can get through this course with just having an advanced grasp of soli
 
 ## Certora 
 - Parametric rules
-- Invariants
 - Ghosts
 - Hooks
 - Dispatching & Summaries
 - Sanity 
-- Prover Args
 
 🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮
 
@@ -299,7 +319,7 @@ _Coming soon: The EVM, Assembly, and Formal Verification Course!!_
 
 ## Disclosures
 
-The Cyfrin team runs CodeHawks, Cyfrin Updraft, and private security reviews. They are an advisor to the Peeranha project, and run various blockchain nodes like Chainlink & Ethereum. Additionally, the are responsible for the creation of the Aderyn and Solodit tools.  
+The Cyfrin team runs CodeHawks, Cyfrin Updraft, and private security reviews. They are an advisor to the Peeranha project, and run various blockchain nodes like Chainlink & Ethereum. Additionally, they are responsible for the creation of the Aderyn and Solodit tools.  
 
 # Thank you
 
