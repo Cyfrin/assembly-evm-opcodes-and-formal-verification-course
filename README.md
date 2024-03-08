@@ -94,7 +94,7 @@ We assume you have a solid grasp of the following tools for this course.
 - Basic Linux/Unix/Bash terminal commands
 - Git & GitHub
 - WSL (if you're on windows)
-  - LINK TO WSL INSTALL VIDEO
+  - https://youtu.be/C3U0_LKw970
 
 Note: You can get through this course with just having an advanced grasp of solidity & foundry. However, having at least a shallow understanding of security and low-level EVM will make this course much easier to grasp. And you doing the security coruse will make you a better EVM developer!
 
