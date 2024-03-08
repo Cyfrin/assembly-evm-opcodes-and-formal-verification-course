@@ -83,8 +83,22 @@ Join [Cyfrin Updraft](https://updraft.cyfrin.io/) for the best learning experien
 An intermediate understanding of solidity. You don't need to be a pro, but you should be familiar with:
 
 - [Security & Auditing Course](https://updraft.cyfrin.io/courses/security)
+- [Basic Understanding of bits, bytes, and binary](https://www.youtube.com/watch?v=zDNaUi2cjv4)
 
-Note: You can get through this course with just having an advanced grasp of solidity & foundry, however, having at least a shallow understanding of security and low level EVM will make this course much easier to grasp. And you doing the security coruse will make you a better EVM developer!
+### Tools
+
+We assume you have a solid grasp of the following tools for this course.
+- Foundry
+- Solidity
+- VSCode/Text Editor
+- Basic Linux/Unix/Bash terminal commands
+- Git & GitHub
+- WSL (if you're on windows)
+  - LINK TO WSL INSTALL VIDEO
+
+Note: You can get through this course with just having an advanced grasp of solidity & foundry. However, having at least a shallow understanding of security and low-level EVM will make this course much easier to grasp. And you doing the security coruse will make you a better EVM developer!
+
+
 
 ## Outcomes
 * Be able to decompile a smart contract right from the raw bytecode
