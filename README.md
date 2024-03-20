@@ -353,7 +353,8 @@ The Cyfrin team runs CodeHawks, Cyfrin Updraft, and private security reviews. Th
 
 ## Guest Lecturers
 
-- XXXX
+- [Josselin from Trail of Bits](https://twitter.com/Montyly)
+- [Troy from Trail of Bits](https://twitter.com/0xalpharush)
 
 ## Special thanks
 
