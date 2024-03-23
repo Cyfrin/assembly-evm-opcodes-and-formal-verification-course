@@ -23,6 +23,7 @@ This was considered part 2 of the [security and auditing course](https://updraft
   - [Resources For This Course](#resources-for-this-course)
     - [Challenge Contracts Registry](#challenge-contracts-registry)
   - [Prerequisites](#prerequisites)
+    - [Tools](#tools)
   - [Outcomes](#outcomes)
 - [Curriculum](#curriculum)
 - [Section 0: Welcome](#section-0-welcome)
@@ -39,7 +40,7 @@ This was considered part 2 of the [security and auditing course](https://updraft
     - [Section 2 NFT](#section-2-nft)
 - [Section 3: Advanced Formal Verification | Gas Bad NFT Marketplace](#section-3-advanced-formal-verification--gas-bad-nft-marketplace)
   - [Certora](#certora-1)
-    - [Section 13 NFT](#section-13-nft)
+    - [Section 3 NFT](#section-3-nft)
 - [Congratulations](#congratulations)
   - [Where do I go now?](#where-do-i-go-now)
   - [Learning More](#learning-more)
@@ -78,6 +79,8 @@ Join [Cyfrin Updraft](https://updraft.cyfrin.io/) for the best learning experien
 ### Challenge Contracts Registry
 
 - [Challenge Contracts](https://arbiscan.io/address/0xDe0e797bfAd78F0615d75430C53F8fe3C9e49883#code)
+- It's just numbers 11 -> 13
+  - The rest are from the [security and auditing](https://updraft.cyfrin.io/courses/security) or the [Web3 DevOps](https://updraft.cyfrin.io/courses/wallet-and-deployment) course. 
 
 ## Prerequisites
 An intermediate understanding of solidity. You don't need to be a pro, but you should be familiar with:
@@ -131,7 +134,9 @@ Note: You can get through this course with just having an advanced grasp of soli
 🎯 Exercise: Write *yourself* a message about why you want this
   - This will be important for when things get hard
   - Is it money? Save web3? Become someone? Write down as many reasons as possible. 
+
 ### Section 0 NFT
+- *No section 0 challenge NFT for this one!*
 
 🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -191,7 +196,7 @@ Note: You can get through this course with just having an advanced grasp of soli
 1. Convert a minimal contract of your own into Huff or Yul
 
 ### Section 1 NFT
-- *Coming soon*
+- [Good luck lmao](https://arbiscan.io/address/0xFCA3dAeF78be6a9443Af48195Fb882d881b02644#code)
 
 🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -262,7 +267,7 @@ Note: You can get through this course with just having an advanced grasp of soli
 4. [Audit this!](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin) 🪙
 
 ### Section 2 NFT
-- *Coming soon*
+- [I accidentally verified the helper contract so this one is a bit easier](https://arbiscan.io/address/0x8983dc5E9bC4Be1E2C7FE241637D8E6b999755b1#code)
 
 🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮
 
@@ -294,8 +299,8 @@ Note: You can get through this course with just having an advanced grasp of soli
 
 1. Compete in a formal verification contest!
 
-### Section 13 NFT
-- *Coming soon*
+### Section 3 NFT
+- [I can't stop you anymore](https://arbiscan.io/address/0x349364769030dAB260eF2771610C4860EE367202#code)
 
 🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮
 

@@ -15,6 +15,10 @@
 14-*
 15-*
 
+images/
+zksync-challenge-nfts/
+zksync-challenge-nfts-hardhat/
+
 sc-exploits-minimized/
 challenge-nfts/
 
@@ -22,3 +26,4 @@ challenge-nfts/
 
 .cringe/
 cringe/
+nfts/
