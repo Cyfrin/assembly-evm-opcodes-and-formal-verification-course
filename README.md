@@ -78,7 +78,8 @@ Join [Cyfrin Updraft](https://updraft.cyfrin.io/) for the best learning experien
 
 ### Challenge Contracts Registry
 
-- [Challenge Contracts](https://arbiscan.io/address/0xDe0e797bfAd78F0615d75430C53F8fe3C9e49883#code)
+- [Challenge Contracts (Arbitrum)](https://arbiscan.io/address/0xDe0e797bfAd78F0615d75430C53F8fe3C9e49883#code)
+- [Challenge Contracts (Sepolia)](https://sepolia.etherscan.io/address/0x31801c3e09708549c1b2c9e1cfbf001399a1b9fa#code)
 - It's just numbers 11 -> 13
   - The rest are from the [security and auditing](https://updraft.cyfrin.io/courses/security) or the [Web3 DevOps](https://updraft.cyfrin.io/courses/wallet-and-deployment) course. 
 
@@ -196,7 +197,8 @@ Note: You can get through this course with just having an advanced grasp of soli
 1. Convert a minimal contract of your own into Huff or Yul
 
 ### Section 1 NFT
-- [Good luck lmao](https://arbiscan.io/address/0xFCA3dAeF78be6a9443Af48195Fb882d881b02644#code)
+- [Good luck (Arbitrum)](https://arbiscan.io/address/0xFCA3dAeF78be6a9443Af48195Fb882d881b02644#code)
+- [Good luck (Sepolia)](https://sepolia.etherscan.io/address/0x444aE92325dCE5D14d40c30d2657547513674dD6)
 
 🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -267,7 +269,8 @@ Note: You can get through this course with just having an advanced grasp of soli
 4. [Audit this!](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin) 🪙
 
 ### Section 2 NFT
-- [I accidentally verified the helper contract so this one is a bit easier](https://arbiscan.io/address/0x8983dc5E9bC4Be1E2C7FE241637D8E6b999755b1#code)
+- [I accidentally verified the helper contract so this one is a bit easier (Arbitrum)](https://arbiscan.io/address/0x8983dc5E9bC4Be1E2C7FE241637D8E6b999755b1#code)
+- [Since I verified the arbitrum one, I also verified the sepolia one](https://sepolia.etherscan.io/address/0x3DbBF2F9AcFB9Aac8E0b31563dd75a2D69148D64)
 
 🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮
 
@@ -300,7 +303,8 @@ Note: You can get through this course with just having an advanced grasp of soli
 1. Compete in a formal verification contest!
 
 ### Section 3 NFT
-- [I can't stop you anymore](https://arbiscan.io/address/0x349364769030dAB260eF2771610C4860EE367202#code)
+- [I can't stop you anymore (Arbitrum)](https://arbiscan.io/address/0x349364769030dAB260eF2771610C4860EE367202#code)
+- [I can't stop you (Sepolia)](https://sepolia.etherscan.io/address/0x7D4a746Cb398e5aE19f6cBDC08473664ADBc6da5)
 
 🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮🧮
 
