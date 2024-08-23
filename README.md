@@ -178,7 +178,9 @@ Note: You can get through this course with just having an advanced grasp of soli
 - [EVM Opcodes](https://evm.codes/)
 - [View of Places the EVM can hold info](https://x.com/pcaversaccio/status/1651926715931738112?s=20)
 - [HEVM](https://github.com/ethereum/hevm)
-- [foundry-huff](https://github.com/huff-language/foundry-huff)
+- Foundry libraries
+    - [foundry-huff](https://github.com/huff-language/foundry-huff)
+    - [huff-runner](https://github.com/whitenois3/huff-runner)
 - Introduction to Yul
     - Security considerations (compiler doesn’t keep you safe anymore!)
 - Introduction to Huff
