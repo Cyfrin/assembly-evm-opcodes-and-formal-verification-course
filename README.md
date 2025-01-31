@@ -177,6 +177,7 @@ Note: You can get through this course with just having an advanced grasp of soli
 - [Huff Documentation](https://docs.huff.sh/)
 - [EVM Opcodes](https://evm.codes/)
 - [View of Places the EVM can hold info](https://x.com/pcaversaccio/status/1651926715931738112?s=20)
+- [OpenZeppelin Deconstructing a Solidity Contract](https://blog.openzeppelin.com/deconstructing-a-solidity-smart-contract-part-i-introduction-832efd2d7737)
 - [HEVM](https://github.com/ethereum/hevm)
 - Foundry libraries
     - [foundry-huff](https://github.com/huff-language/foundry-huff)
