@@ -356,7 +356,6 @@ The Cyfrin team runs CodeHawks, Cyfrin Updraft, and private security reviews. Th
   - [CodeHawks](https://codehawks.com/)
   - [Solodit](https://solodit.xyz/)
 - [Arbitrum Foundation](https://arbitrum.foundation/)
-- [Certora](https://www.certora.com/)
 - [Chainlink Labs](https://chainlinklabs.com/)
 
 ## Lead Lecturers / Code Builders
